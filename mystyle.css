@@ -1,0 +1,26 @@
+span{
+	color: green;
+}
+
+.submit {
+	background: green;
+}
+
+.submit:hover {
+	background: darkgreen;
+	border: 3px solid green;
+}
+
+.fa, .fa-brands {
+	color: green;
+}
+
+header .fa, footer .fa,
+footer .fa-brands, header .fa-brands {
+	color: white;
+}
+
+.myface {
+	width: 200px;
+
+}
